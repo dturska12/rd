@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>RocketDash #ELONONE Holder Exclusive Rocket Mint</title>
+  <base href="/">
+  <meta httpEquiv="x-ua-compatible" content="ie=edge; chrome=1" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <link rel="icon" type="image/x-icon" href="assets/images/favicon.ico">
+  <link rel="apple-touch-icon" href="assets/images/rocketdash.png" />
+  <meta name="theme-color" content="#000000" />
+  <meta name="description" content="RocketDash - Build. Play. Earn." property="og:description" />
+  <meta name="title" content="RocketDash - Build. Play. Earn." property="og:title" />
+  <link rel="canonical" href="https://rocketdash.com/" />
+  <meta property="og:site_name" content="RocketDash Mint" />
+  <meta property="og:title" content="RocketDash Mint" />
+  <meta property="og:description" content="RocketDash | P2E NFT Gaming. Powered by #ELONONE" />
+  <meta property="og:type" content="https://rocketdash.game/" />
+  <meta property="og:url" content="https://rocketdash.game/" />
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+  <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+  <script src="https://static.sekandocdn.net/static/feednami/feednami-client-v1.1.js"></script>
+  <script type="text/javascript" src="https://s3.tradingview.com/tv.js"></script>
+  <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <script src="https://code.jquery.com/jquery-1.11.2.min.js"></script>
+
+<link rel="stylesheet" href="styles.1bc60e06e7f7b761db3c.css"></head>
+
+<body>
+
+  <app-root></app-root>
+
+<script src="runtime-es2015.0dae8cbc97194c7caed4.js" type="module"></script><script src="runtime-es5.0dae8cbc97194c7caed4.js" nomodule defer></script><script src="polyfills-es5.548e50a86225c0ef55f8.js" nomodule defer></script><script src="polyfills-es2015.e968908197f2accf2c3a.js" type="module"></script><script src="scripts.e05242c82f20512ccfd1.js" defer></script><script src="main-es2015.7ff37296fbe0638b4bec.js" type="module"></script><script src="main-es5.7ff37296fbe0638b4bec.js" nomodule defer></script></body>
+
+</html>
